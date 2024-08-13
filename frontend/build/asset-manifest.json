@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0d429f3.css",
+    "main.js": "/static/js/main.eaba2d33.js",
+    "static/media/students.svg": "/static/media/students.9404f2f89ab8934e529d47fe3e48f9f1.svg",
+    "static/media/subjects.svg": "/static/media/subjects.013b9ea5daf1ce262cdf1faf054c2b50.svg",
+    "static/media/assignment.svg": "/static/media/assignment.bc61fe3453a587ff7d3028a4494ad169.svg",
+    "static/media/classroom.png": "/static/media/classroom.f472ff2cd754d14669f3.png",
+    "static/media/time.svg": "/static/media/time.4385c93898939eb79375d3cdc30644aa.svg",
+    "static/media/designlogin.jpg": "/static/media/designlogin.3cac939f195a9e698ba4.jpg",
+    "index.html": "/index.html",
+    "main.c0d429f3.css.map": "/static/css/main.c0d429f3.css.map",
+    "main.eaba2d33.js.map": "/static/js/main.eaba2d33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d429f3.css",
+    "static/js/main.eaba2d33.js"
+  ]
+}
